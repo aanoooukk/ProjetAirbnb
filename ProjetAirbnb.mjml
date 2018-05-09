@@ -1,0 +1,161 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#eee">
+    <mj-section padding-bottom="0px">
+      <mj-column width="50%">
+        <mj-image src="http://res.cloudinary.com/ducdzjqsh/image/upload/v1525868863/Airbnb_New_Logo_2016.png" width="70px" align="left"> </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="15px" color="BLACK" font-weight="normal" align="right">
+          February
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section width="100%">
+      <mj-text font-size="36px" color="#00A699" font-weight="bold">Newsletter de l'hôte</mj-text>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/5Z_tl-animated_header_v2.gif" padding="0px" align="center"> </mj-image>
+
+
+        <mj-section>
+          <mj-text font-size="32px" color="#484848" font-weight="bold">
+            Le prochain Airbnb, inspiré par vous</mj-text>
+        </mj-section>
+
+        <mj-section padding-left="10px" padding-right="10px" padding-top="0px">
+          <mj-text font-size="18px" color="#484848" align="left">
+            Nous annonçons de nouvelles façons de se démarquer, gagner plus et attirer les invités qui vont adorer votre maison. Regardez le keynote en direct le 22 février.</mj-text>
+        </mj-section>
+
+        <mj-button font-family="Helvetica" font-size="18px" background-color="#00A699" border-radius="30px" align="left" color="white">
+          RSVP pour rejoindre le livestream
+        </mj-button>
+
+        <mj-section padding-left="0px" background-color="#EEE">
+        </mj-section>
+
+        <mj-section padding-bottom="0px">
+          <mj-column width="30%">
+            <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/SanFran2.png" width="70px" align="center"> </mj-image>
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="24px" color="#484848" align="left" font-weight="bold">
+              Vous pouvez toujours enregistrer votre annonce dans SF!
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="3px">
+          <mj-column width="30%">
+
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="18px" color="#484848" align="left" padding-top="0px">
+              Intéressé par l'hébergement à San Francisco pendant moins de 30 jours à la fois? Même si vous avez manqué la date limite d'inscription, vous pouvez toujours enregistrer votre inscription auprès de la Ville directement depuis notre site Web ou notre application
+              mobile.
+            </mj-text>
+
+            <mj-text font-size="18px" color="#00A699" align="left" padding-top="0px"><a href="#" src="https://reallygoodemails.com/wp-content/uploads/what-s-next-for-hosting-on-airbnb.html#">
+          Enregistrer votre fiche</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-left="0px" background-color="#EEE">
+        </mj-section>
+
+        <mj-section padding-bottom="0px">
+          <mj-column width="30%">
+            <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/money-maker2.png" width="70px" align="center"> </mj-image>
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="24px" color="#484848" align="left" font-weight="bold">
+              Améliorations résidentielles avec hébergement en tête
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="3px">
+          <mj-column width="30%">
+
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="18px" color="#484848" align="left" padding-top="0px">
+
+              Améliorations résidentielles avec hébergement en tête Nous avons interrogé des hôtes sur leurs projets d'amélioration de leurs espaces et nous avons eu beaucoup d'excellentes idées. Certains étaient simples et pratiques, comme le remplacement des serviettes,
+              et d'autres faisaient battre nos cœurs, comme la conversion d'un garage en salle de musique. Lisez à propos de leurs idées et commencez à rêver les vôtres.
+            </mj-text>
+
+            <mj-text font-size="18px" color="#00A699" align="left" padding-top="0px"><a href="#" src="https://blog.atairbnb.com/home-improvements/">
+          Être inspiré</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-left="0px" background-color="#EEE">
+        </mj-section>
+
+        <mj-section padding-bottom="0px">
+          <mj-column width="30%">
+            <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/community_commitment3.png" width="120px" align="center"> </mj-image>
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="24px" color="#484848" align="left" font-weight="bold">
+              Vous pouvez toujours enregistrer votre annonce dans SF!
+            </mj-text>
+            <mj-text font-size="18px" color="#484848" align="left" padding-top="10px">
+              Intéressé par l'hébergement à San Francisco pendant moins de 30 jours à la fois? Même si vous avez manqué la date limite d'inscription, vous pouvez toujours enregistrer votre inscription auprès de la Ville directement depuis notre site Web ou notre application
+              mobile.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-left="0px" background-color="#EEE">
+        </mj-section>
+
+        <mj-section padding-bottom="0px">
+          <mj-column width="30%">
+            <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/experiences-posters-collage.jpg" width="120px" align="center"> </mj-image>
+          </mj-column>
+          <mj-column width="70%">
+            <mj-text font-size="24px" color="#484848" align="left" font-weight="bold">
+              Tombez amoureux de votre ville
+            </mj-text>
+            <mj-text font-size="18px" color="#484848" align="left" padding-top="10px">
+              Voir votre propre ville avec de nouveaux yeux afin que vous puissiez partager l'excitation. Nous avons des idées pour expérimenter quelque chose de totalement nouveau pour garder votre hébergement actuel et vos invités séduits.
+            </mj-text>
+            <mj-text font-size="18px" color="#00A699" align="left" padding-top="0px"><a href="#" src="https://blog.atairbnb.com/fall-in-love//">
+          Regarde ça</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-left="0px" background-color="#EEE">
+        </mj-section>
+
+        <mj-section>
+          <mj-text font-size="18px">
+            Pour plus d'idées d'hébergement, consultez <a href="#" src="https://click.airbnbmail.com/u/?qs=67f11a7263b02c902deda9b17fbb4a67bc69bdb69434ec556d4a882125b6b8adb06276f8e6435599dc3d95e043e4df246bc740d1cdc91a7b"> les éditions précédentes.</a>
+          </mj-text>
+        </mj-section>
+
+
+
+
+
+
+  </mj-body>
+</mjml>
